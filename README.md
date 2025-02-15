@@ -8,8 +8,6 @@
   <li>⭐ <a href="https://xalaflix.io" target="_blank">Xalaflix</a></li>
   <li><a href="https://vww.wookafr.org" target="_blank">Wookafr</a></li>
   <li><a href="https://tv.sadisflix.org" target="_blank">Sadisflix</a></li>
-  <li><a href="https://rocs45.fr" target="_blank">Rocs45</a></li>
-  <li><a href="https://empire-streaming.live" target="_blank">Empire Streaming</a></li>
   <li><a href="https://xakraf.com" target="_blank">Xakraf</a></li>
   <li><a href="https://coflix.plus" target="_blank">Coflix</a></li>
   <li><a href="https://www.darkiworld.al" target="_blank">Darkiworld</a></li>
