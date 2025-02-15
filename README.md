@@ -5,7 +5,7 @@
 ## List of Sites
 
 <ul>
-  <li>⭐ <a href="https://xalaflix.eu" target="_blank">Xalaflix</a></li>
+  <li>⭐ <a href="https://xalaflix.io" target="_blank">Xalaflix</a></li>
   <li><a href="https://vww.wookafr.org" target="_blank">Wookafr</a></li>
   <li><a href="https://frenchstream.vc" target="_blank">Frenchstream</a></li>
   <li><a href="https://tv.sadisflix.org" target="_blank">Sadisflix</a></li>
