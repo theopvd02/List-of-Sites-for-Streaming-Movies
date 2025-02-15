@@ -9,7 +9,7 @@
   <li><a href="https://vww.wookafr.org" target="_blank">Wookafr</a></li>
   <li><a href="https://tv.sadisflix.org" target="_blank">Sadisflix</a></li>
   <li><a href="https://xakraf.com" target="_blank">Xakraf</a></li>
-  <li><a href="https://coflix.plus" target="_blank">Coflix</a></li>
+  <li><a href="https://coflix.moe" target="_blank">Coflix</a></li>
   <li><a href="https://www.darkiworld.al" target="_blank">Darkiworld</a></li>
   <li><a href="https://www.titrov.com" target="_blank">Titrov</a></li>
   <li><a href="https://filmoflix.bz" target="_blank">Filmoflix</a></li>
