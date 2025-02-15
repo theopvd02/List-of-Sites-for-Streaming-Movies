@@ -11,7 +11,6 @@
   <li><a href="https://xakraf.fr" target="_blank">Xakraf</a></li>
   <li><a href="https://coflix.moe" target="_blank">Coflix</a></li>
   <li><a href="https://www.darkiworld.al" target="_blank">Darkiworld</a></li>
-  <li><a href="https://filmoflix.bz" target="_blank">Filmoflix</a></li>
   <li><a href="https://adivak.com" target="_blank">Adivak</a></li>
   <li><a href="https://senpai-stream.net" target="_blank">Senpai Stream</a></li>
   <li><a href="https://www.novaflix.net" target="_blank">Novaflix</a></li>
