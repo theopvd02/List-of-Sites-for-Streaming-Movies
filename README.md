@@ -12,7 +12,7 @@
   <li><a href="https://coflix.moe" target="_blank">Coflix</a></li>
   <li><a href="https://www.darkiworld.al" target="_blank">Darkiworld</a></li>
   <li><a href="https://adivak.com" target="_blank">Adivak</a></li>
-  <li><a href="https://senpai-stream.net" target="_blank">Senpai Stream</a></li>
+  <li><a href="https://senpai-stream.org" target="_blank">Senpai Stream</a></li>
   <li><a href="https://www.novaflix.net" target="_blank">Novaflix</a></li>
   <li><a href="https://nightflix.vip/" target="_blank">Nightflix</a></li>
 </ul>
