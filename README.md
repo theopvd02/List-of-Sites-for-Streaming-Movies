@@ -17,6 +17,4 @@
   <li><a href="https://nightflix.vip/" target="_blank">Nightflix</a></li>
 </ul>
 
-<hr>
-
 <p><strong>Disclaimer:</strong> This list is subject to change. I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.</p>
