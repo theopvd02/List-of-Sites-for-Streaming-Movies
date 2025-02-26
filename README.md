@@ -6,7 +6,6 @@
 
 <ul>
   <li>⭐ <a href="https://xalaflix.io" target="_blank">Xalaflix</a></li>
-  <li><a href="https://vww.wookafr.org" target="_blank">Wookafr</a></li>
   <li><a href="https://tv.sadisflix.org" target="_blank">Sadisflix</a></li>
   <li><a href="https://xakraf.fr" target="_blank">Xakraf</a></li>
   <li><a href="https://coflix.moe" target="_blank">Coflix</a></li>
